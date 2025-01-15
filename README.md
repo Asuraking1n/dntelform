@@ -12,16 +12,9 @@ A powerful, flexible, and performant React form management hook for building dyn
 - 🔄 Advanced state management
 - 🎛️ Comprehensive form controls
 
-## Installation
-
-```bash
-npm install dntel-form
-```
-
 ## Quick Start
 
 ```tsx
-import { useDntelForm } from 'dntel-form';
 
 const App = () => {
   const sampleConfig = {
