@@ -112,7 +112,6 @@ const App = () => {
   ],
 };
 
-  const {
  const form = useDntelForm(sampleConfig as FormConfig, "sample-form");;
 
   return (
